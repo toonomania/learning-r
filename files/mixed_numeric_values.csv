@@ -1,0 +1,6 @@
+operation_type,starttime,endtime
+find,4,7
+delete,abc,9
+update,8,def
+select,10,15
+merge,xyz,pqr

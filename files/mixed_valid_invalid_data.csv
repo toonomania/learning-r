@@ -1,0 +1,11 @@
+operation_type,starttime,endtime
+find,4,7
+delete,3,9
+update,abc,15
+insert,10,12
+select,7,20
+merge,6,10
+truncate,14,18
+replace,8,16
+delete,20,30
+find,xyz,15
